@@ -9,4 +9,6 @@ Docker Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 
 ## Index 📜
 
-### 🔖 [Docker_installing_on_ec2_linux2]
+### 🔖 [Docker_installing_on_ec2_linux2](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_installing_on_ec2_linux2)
+
+### 🔖 [Docker_container_basic_operations](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_container_basic_operations)

@@ -21,4 +21,4 @@ Docker Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 
 ### 🔖 [Docker_compose_operations](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_compose_operations)
 
-### 🔖 [Different_exec_shell_and_CMD_ENTRYPOINT]()
+### 🔖 [Different_exec_shell_and_CMD_ENTRYPOINT](https://github.com/medipnegiz/docker_hands_on/tree/main/Different_exec_shell_and_CMD_ENTRYPOINT)

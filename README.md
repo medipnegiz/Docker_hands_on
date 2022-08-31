@@ -24,3 +24,5 @@ Docker Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 ### 🔖 [Different_exec_shell_and_CMD_ENTRYPOINT](https://github.com/medipnegiz/docker_hands_on/tree/main/Different_exec_shell_and_CMD_ENTRYPOINT)
 
 ### 🔖 [Dockerize_to_do_app_on_python_flask](https://github.com/medipnegiz/docker_hands_on/tree/main/Dockerize_to_do_app_on_python_flask)
+
+### 🔖 [Docker_Swarm_Basic_Operations](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_Swarm_Basic_Operations)

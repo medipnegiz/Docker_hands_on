@@ -27,4 +27,4 @@ Docker Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 
 ### 🔖 [Docker_Swarm_Basic_Operations](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_Swarm_Basic_Operations)
 
-### 🔖 [Docker_swarm_Networking_Managing_Services_Secrets_Stacks]()
+### 🔖 [Docker_swarm_Networking_Managing_Services_Secrets_Stacks](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_swarm_Networking_Managing_Services_Secrets_Stacks)

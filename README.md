@@ -26,3 +26,5 @@ Docker Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 ### 🔖 [Dockerize_to_do_app_on_python_flask](https://github.com/medipnegiz/docker_hands_on/tree/main/Dockerize_to_do_app_on_python_flask)
 
 ### 🔖 [Docker_Swarm_Basic_Operations](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_Swarm_Basic_Operations)
+
+### 🔖 [Docker_swarm_Networking_Managing_Services_Secrets_Stacks]()

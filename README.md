@@ -19,6 +19,7 @@ Purpose of the this hands-on training is to give students the knowledge of basic
 Purpose of the this hands-on training is to teach students how to handle volumes in Docker containers.
 
 ### 🔖 [Docker_image_basic_operations](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_image_basic_operations)
+Purpose of this hands-on training is to give the students understanding to images in Docker.
 
 ### 🔖 [Docker_network](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_network)
 

@@ -10,6 +10,7 @@ Docker Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 ## Index 📜
 
 ### 🔖 [Docker_installing_on_ec2_linux2](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_installing_on_ec2_linux2)
+Purpose of the this hands-on training is to teach the students how to install Docker on on Amazon Linux 2 EC2 instance.
 
 ### 🔖 [Docker_container_basic_operations](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_container_basic_operations)
 

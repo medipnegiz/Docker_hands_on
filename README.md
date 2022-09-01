@@ -30,11 +30,12 @@ Purpose of the this hands-on training is to give the students understanding to D
 ### 🔖 [Different_exec_shell_and_CMD_ENTRYPOINT](https://github.com/medipnegiz/docker_hands_on/tree/main/Different_exec_shell_and_CMD_ENTRYPOINT)
 Purpose of the this hands-on training is to give the students understanding to difference between:
 
-exec form and shell form
+--> exec form and shell form
 
-CMD instruction and ENTRYPOINT instruction
+--> CMD instruction and ENTRYPOINT instruction
 
 ### 🔖 [Dockerize_to_do_app_on_python_flask](https://github.com/medipnegiz/docker_hands_on/tree/main/Dockerize_to_do_app_on_python_flask)
+Purpose of the this hands-on training is to dockerize an Python Flask application with Dockerfile and Docker compose.
 
 ### 🔖 [Docker_Swarm_Basic_Operations](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_Swarm_Basic_Operations)
 

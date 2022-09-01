@@ -25,6 +25,7 @@ Purpose of this hands-on training is to give the students understanding to image
 Purpose of the this hands-on training is to give the student understanding to networking in Docker.
 
 ### 🔖 [Docker_compose_operations](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_compose_operations)
+Purpose of the this hands-on training is to give the students understanding to Docker Compose.
 
 ### 🔖 [Different_exec_shell_and_CMD_ENTRYPOINT](https://github.com/medipnegiz/docker_hands_on/tree/main/Different_exec_shell_and_CMD_ENTRYPOINT)
 

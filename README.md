@@ -41,3 +41,4 @@ Purpose of the this hands-on training is to dockerize an Python Flask applicatio
 Purpose of this hands-on training is to give students the understanding to the Docker Swarm basic operations.
 
 ### 🔖 [Docker_swarm_Networking_Managing_Services_Secrets_Stacks](https://github.com/medipnegiz/docker_hands_on/tree/main/Docker_swarm_Networking_Managing_Services_Secrets_Stacks)
+Purpose of the this hands-on training is to give students the understanding to the Docker Swarm basic operations.
